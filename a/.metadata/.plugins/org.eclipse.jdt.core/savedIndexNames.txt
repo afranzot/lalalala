@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+C:\Users\afranzot\Downloads\eclipse-jee-luna-SR2-win32-x86_64\eclipse\a\.metadata\.plugins\org.eclipse.jdt.core
+580329312.index
